@@ -1,0 +1,7 @@
+{
+  "name": "BTP Flow Studio",
+  "description": "AI Sales & Operations Assistant for the BTP and construction materials sector. specialized in pipes, drainage, and industrial networks.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
